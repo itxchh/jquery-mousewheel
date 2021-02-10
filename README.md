@@ -1,3 +1,6 @@
+# Changed by me to make the event listners passive, as recommend by LightHouse report 
+    https://web.dev/uses-passive-event-listeners/?utm_source=lighthouse&utm_medium=lr
+
 # jQuery Mouse Wheel Plugin
 
 A [jQuery](http://jquery.com/) plugin that adds cross-browser mouse wheel support with delta normalization.
